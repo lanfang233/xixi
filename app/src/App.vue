@@ -1,10 +1,11 @@
 <template>
   <div id="app">
 
-    这是主程
+    这是主程<br/>
 
-    这是路人甲测试
+    这是路人甲测试<br/>
 
+    这是路人乙测试
   </div>
 </template>
 
